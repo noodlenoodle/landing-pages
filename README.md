@@ -1,6 +1,6 @@
 # Soft Pace website
 
-Public landing, privacy and support pages for Soft Pace.
+Public landing, privacy and terms pages for Soft Pace.
 
 The site is published automatically to GitHub Pages when changes are pushed to `main`.
 
