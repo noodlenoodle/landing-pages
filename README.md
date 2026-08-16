@@ -7,4 +7,5 @@ The site is published automatically to GitHub Pages when changes are pushed to `
 ## Before the App Store release
 
 - Replace the “Coming soon” message in `index.html` with the App Store link.
-- Confirm the privacy policy still matches the released app.
+- Confirm the privacy policy still matches the released app, including
+  TelemetryDeck feature-use analytics and the Settings opt-out.
