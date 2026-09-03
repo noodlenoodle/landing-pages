@@ -1,0 +1,13 @@
+<!--
+Created — 2026-07-28 16:12 CEST:
+Redrew Ribbon in Bloom as deterministic vector artwork for the default Apple
+app-icon appearance. The square artwork deliberately contains no baked-in
+rounded corners because iOS applies the platform mask.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#FAF7F1"/>
+  <circle cx="512" cy="374" r="214" fill="#F2BE78"/>
+  <path d="M119 519C255 529 396 625 452 859C278 816 144 705 119 519Z" fill="#477A66"/>
+  <path d="M905 519C769 529 628 625 572 859C746 816 880 705 905 519Z" fill="#477A66"/>
+  <path d="M512 266C423 266 381 337 392 411C402 481 458 537 472 560L407 704L477 666L512 589L547 666L617 704L552 560C566 537 622 481 632 411C643 337 601 266 512 266ZM512 340C548 340 565 367 559 402C553 443 527 478 512 500C497 478 471 443 465 402C459 367 476 340 512 340Z" fill="#DD758B" fill-rule="evenodd"/>
+</svg>
