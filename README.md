@@ -14,4 +14,4 @@ The site is published automatically to GitHub Pages when changes are pushed to `
 
 Read Alongside lives under `/read-alongside/`, with Privacy and Support pages in the same directory. Its public name was accepted in App Store Connect on 14 October 2026. The original Soft Pace site and its policy remain unchanged.
 
-The Read Alongside privacy text reflects Firebase account/cloud storage and the current pre-release deletion limitation. Confirm production configuration and update the policy before release.
+Read Alongside is account-free and local-first, with optional iCloud Sync. Firebase was removed from the app on 29 October 2026. Marketing, Privacy and Support pages reflect the current build; earlier beta records are addressed separately. App Store copy and release evidence are in `docs/read-alongside/`. Production iCloud verification and App Store release remain separate from website publication.
