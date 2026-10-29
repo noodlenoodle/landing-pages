@@ -1,0 +1,30 @@
+{
+  "revision": "2026-10-29-content-sync-2",
+  "source_commit": "6f52c3c8",
+  "name": "Read Alongside",
+  "tagline": "Read with intention. Build a habit. Enjoy and grow.",
+  "opening_line": "Read for joy. Make room to grow.",
+  "product_page_url": "https://noodlenoodle.github.io/landing-pages/read-alongside/#preview",
+  "promotional_text": "Start small, make time for reading, and approach difficult books with manageable goals. Reflect with Reading Check-In, then choose your next step.",
+  "description": "Read with intention. Build a habit. Enjoy and grow.\n\nYou don’t have to think of yourself as a reader to begin. Whether you’re opening your first book in years or returning to one you’ve struggled to finish, Read Alongside helps you make space for reading—starting with small steps that fit your life.\n\nSTART SMALL. MAKE TIME.\nBegin with a few pages or a short reading session. Choose a familiar time and comfortable place, keep your book ready, and build a routine you can return to. Optional reminders support the reading days you choose.\n\nMAKE CHALLENGING BOOKS MANAGEABLE\nA long book, unfamiliar topic or demanding writing can make it difficult to keep going—even when you care about what you’re reading.\n\nChoose a finish date and see the daily pages needed to reach it. Use the pages-per-day calculator to find a manageable date, then adjust your plan as your time and energy change. Rereading counts too: spending time with a difficult passage can matter even when your page number stays the same.\n\nREFLECT BEFORE DECIDING WHAT’S NEXT\nYour reading time is limited. Sometimes a book asks for patience; sometimes its style, subject or timing doesn’t fit what you need. Time already spent does not have to determine what you read next.\n\nReading Check-In helps you notice what is and isn’t clicking, whether your attention is drifting, and how reading feels. Review a neutral summary of your answers, then consider: is this a worthwhile challenge? If you were choosing today, would you choose this book again?\n\nChoose your next step: keep reading, give it more time, pause, read selectively, or stop. No choice is preselected or inferred from your answers. Review what your choice means before confirming it. Your reading history is preserved. You can also put a book on hold or mark it DNF (Did Not Finish) from its library menu without completing a check-in.\n\nBUILD A HABIT YOU WANT TO RETURN TO\nRecord pages, optional reading time, or a completed reading session. Keep optional notes and know where to pick up again. Look back at your previous week to understand what fits your life.\n\nTry an optional seven-day challenge to explore a routine. Missing a session doesn’t end it, and finishing the book isn’t required.\n\nYOUR BOOKS. YOUR READING LIFE.\nStart without creating an app account. Your library saves on your device. Optional iCloud Sync uses your private iCloud library with the same Apple Account on your devices. Export and import backups in Settings → Data & Backup.\n\nRead Alongside supports books you read on paper or elsewhere. It does not provide ebooks or audiobooks.\n\nBuild a sustainable reading habit with dedicated time, manageable goals, and room for enjoyment and personal growth. Use your reading time intentionally.\n\nRead for joy. Make room to grow.",
+  "keywords": "reading,habit,planner,goals,routine,focus,reflection,journal,progress,schedule,nonfiction",
+  "support_url": "https://noodlenoodle.github.io/landing-pages/read-alongside/support.html",
+  "marketing_url": "https://noodlenoodle.github.io/landing-pages/read-alongside/",
+  "privacy_url": "https://noodlenoodle.github.io/landing-pages/read-alongside/privacy.html",
+  "facts": [
+    "Start small; support sustainable habits, dedicated time, manageable goals, difficult books, enjoyment, growth and intentional reading time.",
+    "Plans are book-linked deadlines. A pages/day calculator sets a finish date; routine weekdays do not create a reading-days-only page calculation.",
+    "Logging supports pages, optional reported time or explicit session completion; rereading need not advance position. Notes alone are not a session.",
+    "Current check-in: writing and fit, attention, experience; neutral summary then five unselected reader-led decisions, with consequences before confirmation.",
+    "Eligible library status actions can put a book on hold or mark DNF without a check-in. History and position are retained; DNF deactivates the unfinished plan.",
+    "Optional seven-calendar-day challenge uses the same plan and logs; missed days do not fail it. Weekly review uses the previous completed local calendar week.",
+    "No app account, login, Firebase integration or analytics SDK. Local-first saving, optional private CloudKit with the same iCloud Apple Account on each device.",
+    "Drafts, reminder preferences and pending recovery requests stay device-local; exported backups and device backups are separate from active iCloud data.",
+    "Backup imports merge nonconflicting records. Conflicts do not silently replace existing records. Cloud conflicts require review and retain recovery copies.",
+    "Delete local data and Delete iCloud copy are separate; neither deletes exported backups or device backups. Earlier Firebase beta records cannot be accessed by this app.",
+    "ISBN lookup uses Google Books and Open Library fallback. Library title/author search is local; there is no remote title-search UI.",
+    "No included ebooks/audiobooks, recommendation engine, automatic book scoring, comprehension measurement, guaranteed outcome or public social feed.",
+    "Coming soon until public App Store availability is verified. A compiled or archived app does not prove upload, review approval or production iCloud transfer."
+  ],
+  "app_store_connect_status": "Copy prepared in Git; App Store Connect fields have not been edited or verified in this task."
+}

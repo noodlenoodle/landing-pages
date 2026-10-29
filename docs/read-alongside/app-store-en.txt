@@ -1,7 +1,7 @@
 PROMOTIONAL TEXT (146/170 characters)
 Start small, make time for reading, and approach difficult books with manageable goals. Reflect with Reading Check-In, then choose your next step.
 
-DESCRIPTION (2632/4000 characters)
+DESCRIPTION (2773/4000 characters)
 Read with intention. Build a habit. Enjoy and grow.
 
 You don’t have to think of yourself as a reader to begin. Whether you’re opening your first book in years or returning to one you’ve struggled to finish, Read Alongside helps you make space for reading—starting with small steps that fit your life.
@@ -12,14 +12,14 @@ Begin with a few pages or a short reading session. Choose a familiar time and co
 MAKE CHALLENGING BOOKS MANAGEABLE
 A long book, unfamiliar topic or demanding writing can make it difficult to keep going—even when you care about what you’re reading.
 
-Create a goal, break the remaining pages into manageable steps, and choose a schedule that works for you. Adjust your plan as your time and energy change. Rereading counts too: spending time with a difficult passage can matter even when your page number stays the same.
+Choose a finish date and see the daily pages needed to reach it. Use the pages-per-day calculator to find a manageable date, then adjust your plan as your time and energy change. Rereading counts too: spending time with a difficult passage can matter even when your page number stays the same.
 
 REFLECT BEFORE DECIDING WHAT’S NEXT
 Your reading time is limited. Sometimes a book asks for patience; sometimes its style, subject or timing doesn’t fit what you need. Time already spent does not have to determine what you read next.
 
 Reading Check-In helps you notice what is and isn’t clicking, whether your attention is drifting, and how reading feels. Review a neutral summary of your answers, then consider: is this a worthwhile challenge? If you were choosing today, would you choose this book again?
 
-Choose your next step: keep reading, give it more time, pause, read selectively, or stop. No choice is preselected or inferred from your answers. Review what your choice means before confirming it. Your reading history is preserved.
+Choose your next step: keep reading, give it more time, pause, read selectively, or stop. No choice is preselected or inferred from your answers. Review what your choice means before confirming it. Your reading history is preserved. You can also put a book on hold or mark it DNF (Did Not Finish) from its library menu without completing a check-in.
 
 BUILD A HABIT YOU WANT TO RETURN TO
 Record pages, optional reading time, or a completed reading session. Keep optional notes and know where to pick up again. Look back at your previous week to understand what fits your life.
@@ -43,3 +43,6 @@ https://noodlenoodle.github.io/landing-pages/read-alongside/support.html
 
 MARKETING URL
 https://noodlenoodle.github.io/landing-pages/read-alongside/
+
+PRIVACY URL
+https://noodlenoodle.github.io/landing-pages/read-alongside/privacy.html
